@@ -1,0 +1,19 @@
+{
+  "name": "handle-async-await-errors-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nick S. Plekhanov",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
